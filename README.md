@@ -1,48 +1,33 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+```Projeto video com IA
+# Título do Projeto: Treinamento de Compliance Empresarial - Diversidade e Inclusão
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste em um vídeo institucional destinado a treinamentos de compliance para empresas, com foco na importância da diversidade e inclusão no ambiente de trabalho. O objetivo é conscientizar e educar os funcionários sobre a relevância de um ambiente inclusivo e diversificado, promovendo uma cultura de respeito e equidade.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT**: Utilizado para criar o roteiro do vídeo.
+- **ElevenLabs Text to Speech**: Utilizado para gerar a narração do vídeo.
+- **Canva**: Utilizado para editar e montar o vídeo com funcionalidades de IA.
+- **Blink**: Utilizado para gerar as legendas automáticas do vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Roteiro**: O roteiro foi criado utilizando o ChatGPT, onde foram detalhados os pontos-chave sobre diversidade e inclusão, assegurando que o conteúdo fosse informativo e engajador.
+2. **Narração**: O texto do roteiro foi convertido em áudio utilizando a ferramenta ElevenLabs Text to Speech, proporcionando uma narração clara e profissional.
+3. **Edição de Vídeo**: Utilizando o Canva, as cenas do vídeo foram editadas e montadas, integrando imagens, gráficos e animações relevantes ao tema, além de incorporar a narração.
+4. **Legendas**: Para garantir acessibilidade, o Blink foi utilizado para gerar legendas automáticas, sincronizadas com a narração.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um vídeo institucional profissional e educativo, que pode ser utilizado por empresas para treinamentos de compliance focados em diversidade e inclusão. O vídeo se destaca pela clareza das informações, qualidade da produção e facilidade de compreensão, contribuindo para a promoção de um ambiente de trabalho mais inclusivo e diverso.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar este vídeo com o auxílio de ferramentas de IA foi uma experiência enriquecedora. A integração de diferentes tecnologias facilitou o processo de produção e garantiu um resultado de alta qualidade. Este projeto destacou como a IA pode ser uma aliada poderosa na criação de conteúdos educativos e institucionais, trazendo eficiência e inovação ao processo criativo.
 ```
 
-### Exemplos e Insigths
+### Acesse o projeto
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- Vídeo: Compliance - Diversidade e Inclusão
+- link Drive: https://drive.google.com/file/d/1I6l8SYFPI7ccMRKHSEF02OmssaarLLYA/view?usp=sharing
+- Link YouTube: https://youtu.be/Z7Lvo3_dyi8
 
 ## Links Interessantes
 

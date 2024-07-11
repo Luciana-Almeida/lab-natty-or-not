@@ -1,4 +1,3 @@
-```Projeto video com IA
 # Título do Projeto: Treinamento de Compliance Empresarial - Diversidade e Inclusão
 
 ## 📒 Descrição
@@ -19,9 +18,8 @@ Este projeto consiste em um vídeo institucional destinado a treinamentos de com
 ## 🚀 Resultados
 O resultado foi um vídeo institucional profissional e educativo, que pode ser utilizado por empresas para treinamentos de compliance focados em diversidade e inclusão. O vídeo se destaca pela clareza das informações, qualidade da produção e facilidade de compreensão, contribuindo para a promoção de um ambiente de trabalho mais inclusivo e diverso.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Criar este vídeo com o auxílio de ferramentas de IA foi uma experiência enriquecedora. A integração de diferentes tecnologias facilitou o processo de produção e garantiu um resultado de alta qualidade. Este projeto destacou como a IA pode ser uma aliada poderosa na criação de conteúdos educativos e institucionais, trazendo eficiência e inovação ao processo criativo.
-```
 
 ### Acesse o projeto
 

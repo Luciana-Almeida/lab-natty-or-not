@@ -6,7 +6,7 @@ Este projeto foi criado para o desafio final do bootcamp Coding The Future Vivo 
 Este projeto consiste em um vídeo institucional destinado a treinamentos de compliance para empresas, com foco na importância da diversidade e inclusão no ambiente de trabalho. O objetivo é conscientizar e educar os funcionários sobre a relevância de um ambiente inclusivo e diversificado, promovendo uma cultura de respeito e equidade.
 
 
-## 🤖 Tecnologias Utilizadas
+## 🤖 Tecnologias de IA Utilizadas
 - **ChatGPT**: Utilizado para criar o roteiro do vídeo.
 - **ElevenLabs Text to Speech**: Utilizado para gerar a narração do vídeo.
 - **Canva**: Utilizado para editar e montar o vídeo com funcionalidades de IA.

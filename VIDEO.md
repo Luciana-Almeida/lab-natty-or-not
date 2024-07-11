@@ -1,7 +1,7 @@
 # Título do Projeto: Treinamento de Compliance Empresarial - Diversidade e Inclusão
 
 ## 📒 Descrição
-Este projeto foi criado para o desafio final do bootcamp Coding The Future Vivo - Python AI Backend Developer. O vídeo institucional é destinado a treinamentos de compliance para empresas, com foco na importância da diversidade e inclusão no ambiente de trabalho. O objetivo é conscientizar e educar os funcionários sobre a relevância de um ambiente inclusivo e diversificado, promovendo uma cultura de respeito e equidade.
+Este projeto foi criado para o desafio final do bootcamp Coding The Future Vivo - Python AI Backend Developer.
 
 Este projeto consiste em um vídeo institucional destinado a treinamentos de compliance para empresas, com foco na importância da diversidade e inclusão no ambiente de trabalho. O objetivo é conscientizar e educar os funcionários sobre a relevância de um ambiente inclusivo e diversificado, promovendo uma cultura de respeito e equidade.
 
